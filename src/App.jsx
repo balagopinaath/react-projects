@@ -1,7 +1,7 @@
-import ColorPicker from "./componets/ColorPicker";
+import HomeScreen from "./componets/HomeScreen";
 
 function App() {
-  return <ColorPicker />;
+  return <HomeScreen />;
 }
 
 export default App;
